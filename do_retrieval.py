@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import torch
 import pytorch_lightning as pl
 from mydpr.model.biencoder import MyEncoder
